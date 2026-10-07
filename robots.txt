@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://models.public-revelation.com/sitemap.xml
